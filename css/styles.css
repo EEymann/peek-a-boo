@@ -1,0 +1,13 @@
+#initially-showing {
+  display: none;
+}
+
+
+.clickable {
+  cursor: pointer;
+  color: violet;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
